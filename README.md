@@ -1,4 +1,4 @@
-# react-i5fdmx
+# react- Creating Simple Greeting Website using React JS 
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-i5fdmx)
 
