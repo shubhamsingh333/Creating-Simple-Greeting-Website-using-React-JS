@@ -11,5 +11,5 @@
 
 4. Good Night, if 7pm timm  midnight.
 
-5.Apply css in it, then dynamically change the color of Greeting parts
+5. Apply css in it, then dynamically change the color of Greeting parts
   only using Inline CSS style. Ex. Green, Orange, Black etc.
